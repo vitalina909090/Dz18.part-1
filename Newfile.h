@@ -2,7 +2,8 @@
 #define NEWFILE_H
 
 #include <string>
+using namespace std;
 
-void Check(const std::string& text1, const std::string& text2, const std::string& text3);
+void Check(const string& text1, const string& text2, const string& text3);
 
 #endif // NEWFILE_H
